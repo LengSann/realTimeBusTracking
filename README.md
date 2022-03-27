@@ -15,8 +15,9 @@ This project is used Mapbox to show the map. We need API key to access the map, 
 * Add search input to search the area you like
 * See real-time bus
 ## Lincense
-* [Mapbox](https://www.mapbox.com/legal/tos/)
-* MIT License
+#### [Mapbox](https://www.mapbox.com/legal/tos/)
+
+#### MIT License
 
 Copyright (c) 2022 LengSann
 
